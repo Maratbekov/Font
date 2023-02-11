@@ -1,0 +1,47 @@
+#worth {
+  padding: 100px 0;
+}
+
+.title {
+  position: relative;
+  font-weight: 600;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.title img {
+  position: absolute;
+  top: -8px;
+  left: 25%;
+}
+.content {
+  padding-top: 62px;
+
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 451px;
+}
+
+.flex__items__center {
+  display: flex;
+  align-items: center;
+}
+
+.flex__items__center h3 {
+  font-weight: 600;
+  font-size: 24px;
+  color: #ffffff;
+  margin-left: -30px;
+}
+
+.card p {
+  font-weight: 400;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.5);
+  margin-left: 143px;
+  margin-top: -46px;
+}
