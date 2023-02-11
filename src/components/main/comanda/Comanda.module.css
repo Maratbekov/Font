@@ -1,0 +1,44 @@
+#comanda {
+  padding: 75px 0;
+}
+
+.title {
+  position: relative;
+  font-weight: 600;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.title img {
+  position: absolute;
+  top: -8px;
+  left: 23.5%;
+}
+
+.desc {
+  max-width: 840px;
+  margin-top: 44px;
+  font-weight: 500;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.cards__peaple{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 80px 0;
+}
+
+.card {
+    width: 150px;
+    text-align: center;
+}
+
+.card h4 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #ffffff;
+}
